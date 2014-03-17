@@ -31,7 +31,7 @@ EndFunc
 ;                  'Runner', '10 Runs', '100 Runs', '1000 Runs'
 ;                  For using this function you should have manually open a project in 
 ;                  GameMaker: Studio with working project (I think empty project go well)
-; Syntax.........: _GameMakerDebug()
+; Syntax.........: _GameMakerRun()
 ; Return values .: Nothing
 ; Author ........: Pavel Lobashov
 ;
@@ -58,7 +58,7 @@ EndFunc
 ;                  For using this function you should have manually open a project in 
 ;                  GameMaker: Studio, create a script with error (just type random stuff)
 ;                  and run this function
-; Syntax.........: _GameMakerDebug()
+; Syntax.........: _GameDebugWithError()
 ; Return values .: Nothing
 ; Author ........: Pavel Lobashov
 ;
