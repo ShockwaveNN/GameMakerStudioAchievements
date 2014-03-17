@@ -32,5 +32,3 @@ Func GameRunWithError()
     Send("^{F4}")
   Next
 EndFunc
-
-GameRunWithError()
